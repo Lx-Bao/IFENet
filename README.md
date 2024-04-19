@@ -22,4 +22,4 @@ This repo is an official implementation of the *IFENet*.
 
 
 
-- If you have any questions, feel free to contact me via: `lxbao@hdu.edu.cn` or `zxforchid@outlook.com`.
+- If you have any questions, feel free to contact us via: `lxbao@hdu.edu.cn` or `zxforchid@outlook.com`.
