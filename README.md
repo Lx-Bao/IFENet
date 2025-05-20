@@ -26,7 +26,7 @@ python Test.py
 
 ### 4. Evaluation
 
-- We provide [saliency maps](https://pan.baidu.com/s/1z7kXOXtg1J_lhB1ZNjsTPA?pwd=z9dm) (fetch code: z9dm) of our IFENet on VDT-2048 dataset.
+- We provide [saliency maps](https://pan.baidu.com/s/1Girb29F6WxQzUjNU6jFn7w?pwd=k3qe) (fetch code: k3qe) of our IFENet on VDT-2048 dataset.
 - The edge Ground Truth of the training set of VDT-2048 dataset can be download [here](https://pan.baidu.com/s/1T_zM6msG7e1Xg5bIzaWBxA?pwd=u450) (fetch code: u450)
 
 
